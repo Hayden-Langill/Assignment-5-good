@@ -1,6 +1,7 @@
 let d = document.getElementById('input').value
 const pi = Math.PI
 let n = 0
+let r = 0
 
 document.getElementById('button').addEventListener('click', area)
 document.getElementById('button2').addEventListener('click', cir)
