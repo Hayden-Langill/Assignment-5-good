@@ -11,7 +11,7 @@ function area () {
   d = parseInt(d)
   r = d / 2
   r = r * r
-  n = pi * r 
+  n = pi * r
   document.getElementById('answer').innerHTML = Math.floor(n)
 }
 
