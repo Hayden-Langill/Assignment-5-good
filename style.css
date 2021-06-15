@@ -1,0 +1,27 @@
+#heading {
+  text-align: center;
+}
+
+#answer {
+  border-style: solid;
+  border-color: black;
+  margin-left: 280px;
+  margin-right: 280px;
+  text-align: center;
+}
+
+#p1 {
+  margin-left: 280px;
+}
+
+#button {
+  margin-left: 250px;
+}
+
+#button1 {
+  margin-left: 280px;
+}
+
+#input {
+  margin-left: 280px;
+}
